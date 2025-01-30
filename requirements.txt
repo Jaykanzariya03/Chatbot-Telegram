@@ -1,0 +1,7 @@
+python-telegram-bot==20.3
+pymongo
+pyngrok
+google-generativeai
+serpapi
+python-dotenv
+google-search-results
